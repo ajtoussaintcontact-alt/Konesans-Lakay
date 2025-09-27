@@ -1,4 +1,4 @@
-# Konesans-Lakay by Debertho Lentz BELLEGARDE, Mirline I. SAINTI et Alain Junior TOUSSAINT
+# Konesans-Lakay by Debertho Lentz BELLEGARDE, Mirline I. SAINTIL et Alain Junior TOUSSAINT
 # App description
 Jeu de connaissance et de culture generale sur Haiti. Permet aux utilisateurs d'ameliorer leurs connaissances des informations locales. Peut etre jouer seul ou avec d'autres personnes
 # Category: 
