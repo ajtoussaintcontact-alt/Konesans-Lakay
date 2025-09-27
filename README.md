@@ -1,7 +1,7 @@
-#  Konesans Lakay by Debertho Lentz BELLEGARDE, Mirline SAINTIL I., Alain Junior TOUSSAINT.
+#  Konesans Lakay by ###  Debertho Lentz BELLEGARDE, Mirline SAINTIL I., Alain Junior TOUSSAINT.
 
 ## Nombreux sont les Haïtiens contemporains qui maîtrisent la culture étrangère (française, américaine ou autre) mieux que la leur.
-Mais connaissez-vous un jeu qui valorise nos danses, nos fêtes, nos plats, nos mœurs et coutumes ?
+## Mais connaissez-vous un jeu qui valorise nos danses, nos fêtes, nos plats, nos mœurs et coutumes ?
 C’est de ce constat qu’est née notre idée de projet : Konesans Lakay, un jeu éducatif et ludique qui permet d’apprendre et de renforcer nos connaissances sur la culture haïtienne en s’amusant.
 
 ##✅ Objectifs et avantages du projet
