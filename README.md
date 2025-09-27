@@ -7,4 +7,4 @@
 # Habit: les utilisateurs se serviront de l'app pour renforcer leurs connaissances locales et gagner de l'argent
 # Scope: la premiere version permettra a l'utilisateur de jouer seul. la seconde integra le jeu d'ensemble et la troisieme integra les prix
 # User Stories: developper le sentiment d'appartenance, s'apprehender des connaissances et de la culture locale tout en gagnant de l'argent.
-# <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/67e4f4c9-8530-41ea-bfb7-d8162b5c263b" />
+# <img width="1275" height="1650" alt="predesign app konesans lakay" src="https://github.com/user-attachments/assets/6847f3a3-f103-4ac4-ba59-cc95acc56bfe" />
