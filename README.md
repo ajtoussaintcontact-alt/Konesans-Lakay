@@ -14,11 +14,20 @@ les utilisateurs se serviront de l'app pour renforcer leurs connaissances locale
 # Scope:
 la premiere version permettra a l'utilisateur de jouer seul. la seconde integra le jeu d'ensemble et la troisieme integra les prix
 # User Stories: 
--developper le sentiment d'appartenance, 
+-developper le sentiment d'appartenance, s'apprehender des connaissances et de la culture locale gagner de l'argent.
 #
--s'apprehender des connaissances et de la culture locale 
-#
--gagner de l'argent.
+- Choisir une catégorie parmi : Histoire nationale, Géographie, Littérature haïtienne, Proverbes haïtiens, Folklore et Faits divers.
+
+- Lire la question affichée à l’écran.
+
+- Sélectionner une des 3 réponses proposées :
+
+- ✅ Bonne réponse → affichage d’une image culturelle en lien avec la question pour renforcer la mémoire.
+
+- ❌ Mauvaise réponse → l’interface devient rouge et permet d’apprendre de l’erreur.
+
+- Progresser dans les niveaux, surveille ton temps ⏱ et comparer tes scores.
+
 # 
 <img width="1275" height="1650" alt="predesign app konesans lakay" src="https://github.com/user-attachments/assets/6847f3a3-f103-4ac4-ba59-cc95acc56bfe" />
 # 
