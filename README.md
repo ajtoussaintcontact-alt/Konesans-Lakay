@@ -1,32 +1,89 @@
-# Konesans-Lakay by Debertho Lentz BELLEGARDE, Mirline I. SAINTIL et Alain Junior TOUSSAINT
-# App description
-Jeu de connaissance et de culture generale sur Haiti. Permet aux utilisateurs d'ameliorer leurs connaissances des informations locales. Peut etre jouer seul ou avec d'autres personnes
-# Category: 
-Education
-# Mobile: 
-un mobile est requis pour participer au jeu
-# Story:
-L'utilisateur peut jouer seul ou avec d'autres utilisateur pour ameliorer ses connaissances locales et profiter des prix.
-# Market: 
-l'app peut etre utilise par tout le monde. On peut faire passer des pub pour le monetiser
-# Habit:
-les utilisateurs se serviront de l'app pour renforcer leurs connaissances locales et gagner de l'argent
-# Scope:
-la premiere version permettra a l'utilisateur de jouer seul. la seconde integra le jeu d'ensemble et la troisieme integra les prix
-# User Stories: 
--developper le sentiment d'appartenance, s'apprehender des connaissances et de la culture locale gagner de l'argent.
-#
-- Choisir une catégorie parmi : Histoire nationale, Géographie, Littérature haïtienne, Proverbes haïtiens, Folklore et Faits divers.
+📌 Konesans Lakay
+🎯 Introduction
 
-- Lire la question affichée à l’écran.
+Nombreux sont les Haïtiens contemporains qui maîtrisent la culture étrangère (française, américaine ou autre) mieux que la leur.
+Mais connaissez-vous un jeu qui valorise nos danses, nos fêtes, nos plats, nos mœurs et coutumes ?
+C’est de ce constat qu’est née notre idée de projet : Konesans Lakay, un jeu éducatif et ludique qui permet d’apprendre et de renforcer nos connaissances sur la culture haïtienne en s’amusant.
 
-- Sélectionner une des 3 réponses proposées :
+✅ Objectifs et avantages du projet
 
-- ✅ Bonne réponse → affichage d’une image culturelle en lien avec la question pour renforcer la mémoire.
+Valoriser et préserver le patrimoine culturel haïtien.
 
-- ❌ Mauvaise réponse → l’interface devient rouge et permet d’apprendre de l’erreur.
+Offrir une méthode d’apprentissage ludique, accessible à tous.
 
-- Progresser dans les niveaux, surveille ton temps ⏱ et comparer tes scores.
+Mélanger divertissement et éducation pour une meilleure mémorisation.
+
+Encourager les jeunes à redécouvrir et aimer leur culture.
+
+Proposer une interface simple, moderne et interactive adaptée au mobile.
+
+🕹️ Comment y jouer ?
+
+Choisir une catégorie parmi : Histoire nationale, Géographie, Littérature haïtienne, Proverbes haïtiens, Folklore et Faits divers.
+
+Lire la question affichée à l’écran.
+
+Sélectionner une des 3 réponses proposées.
+
+✅ Bonne réponse → affichage d’une image culturelle en lien avec la question pour renforcer la mémoire.
+
+❌ Mauvaise réponse → l’interface devient rouge et permet d’apprendre de l’erreur.
+
+Progresser dans les niveaux, surveiller le temps ⏱ et comparer les scores.
+
+📱 Application
+
+Category : Éducation
+
+Mobile : Un mobile est requis pour participer au jeu.
+
+Story : L'utilisateur peut jouer seul ou avec d'autres joueurs pour améliorer ses connaissances locales et profiter des prix.
+
+Market : L'app peut être utilisée par tout le monde. Elle peut être monétisée via des publicités.
+
+Habit : Les utilisateurs s’en serviront pour renforcer leurs connaissances locales et gagner des récompenses.
+
+Scope :
+
+Version 1 → l’utilisateur peut jouer seul.
+
+Version 2 → intègre le jeu en groupe.
+
+Version 3 → ajoute un système de prix/récompenses.
+
+👤 User Stories
+
+Développer le sentiment d’appartenance.
+
+S’approprier des connaissances et de la culture locale.
+
+Gagner de l’argent ou des prix grâce à ses connaissances.
+
+Avancer dans les niveaux et partager ses résultats.
+
+🔧 Travail en cours
+
+Développer une fonctionnalité de connexion sécurisée (via e-mail ou compte Google) pour sauvegarder les niveaux et scores.
+
+Améliorer l’expérience utilisateur avec des animations et transitions visuelles fluides.
+
+Ajouter un système de classement (leaderboard) pour stimuler la compétition entre joueurs.
+
+Optimiser l’application pour une utilisation fluide sur tous les formats Android.
+
+👥 Membres du groupe
+
+Debertho Lentz BELLEGARDE
+
+Alain Junior TOUSSAINT
+
+Mirline I. SAINTIL
+
+🌐 Liens utiles
+
+📂 Dépôt GitHub : Konesans-Lakay
+
+🎨 Prototype Figma : Tester l’application mobile
 
 # 
 <img width="1275" height="1650" alt="predesign app konesans lakay" src="https://github.com/user-attachments/assets/6847f3a3-f103-4ac4-ba59-cc95acc56bfe" />
