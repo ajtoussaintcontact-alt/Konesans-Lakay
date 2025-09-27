@@ -33,4 +33,5 @@ la premiere version permettra a l'utilisateur de jouer seul. la seconde integra 
 # 
 https://github.com/ajtoussaintcontact-alt/Konesans-Lakay.git
 ##
-# https://www.figma.com/proto/KiFKoznv3oStUEqSNQgItv/Untitled?node-id=20-53&p=f&t=lnIB6gFnm1TbN4cc-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=20%3A53
+# https://www.figma.com/proto/KiFKoznv3oStUEqSNQgItv/Untitled?node-id=20-53&p=f&t=iDnYSkGvYEqYusQr-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=20%3A53
+
