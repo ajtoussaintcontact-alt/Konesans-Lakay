@@ -32,6 +32,9 @@ la premiere version permettra a l'utilisateur de jouer seul. la seconde integra 
 <img width="1275" height="1650" alt="predesign app konesans lakay" src="https://github.com/user-attachments/assets/6847f3a3-f103-4ac4-ba59-cc95acc56bfe" />
 # 
 https://github.com/ajtoussaintcontact-alt/Konesans-Lakay.git
-##
+# ![Konesans Lakay demo](https://github.com/user-attachments/assets/65d32f93-0f6c-4277-8201-37f4d941564f)
+
+#
+
 # https://www.figma.com/proto/KiFKoznv3oStUEqSNQgItv/Untitled?node-id=20-53&p=f&t=iDnYSkGvYEqYusQr-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=20%3A53
 
